@@ -22,7 +22,7 @@ Funding Raised : $20M
 
 ## Features
 
-- Automatic Claim $4itlg
+- Automatic Claim $itlg
 - Support proxi
 
 
