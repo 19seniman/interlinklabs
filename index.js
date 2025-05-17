@@ -34,7 +34,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`Interlink   Auto Bot - Airdrop Insiders`);
+    console.log(`🍉🍉🍉 19Seniman From Insider - PLEASE SUPPORT PALESTINE ON YOUR SOCIAL MEDIA 🍉🍉🍉 `);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
