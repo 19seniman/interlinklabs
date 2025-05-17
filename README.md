@@ -44,6 +44,11 @@ proxies.txt (optional) - Add your proxies, one per line
 ```fill yours proxy if you have 
 nano proxies.txt
 ```
+format : 
+http://username:password@ip:port
+
+socks5://username:password@ip:port
+
 accounts.json (will be created automatically)
 
 
