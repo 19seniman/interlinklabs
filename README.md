@@ -22,8 +22,8 @@ Funding Raised : $20M
 
 1. Clone the repository:
 ```bash
-git clone 
-cd evm-auto-tx
+git clone https://github.com/19seniman/interlinklabs.git
+cd interlinklabs
 ```
 
 2. Install dependencies:
@@ -31,32 +31,16 @@ cd evm-auto-tx
 npm install
 ```
 
-3. Create a `pk.txt` file in the root directory and add your private key: `0x......`
-
-
-## Usage
-
-1. Start the bot:
+3. submit your id interlink
+```bash
+nano token.txt
+```
+4. run the scrpt:
 ```bash
 node index.js
 ```
 
-2. Choose from available options:
-   - Generate Wallets & Claim Faucet (Somnia)
-   - Transfer STT Tokens (Somnia)
-   - Transfer NEX Tokens (Nexus)
 
-3. Follow the prompts to:
-   - Specify number of wallets to generate
-   - Set token amount per transaction
-   - Define number of transactions
-
-## Generated Files
-
-- `wallets.txt`: Contains generated wallet addresses and private keys
-- Format: `address:privateKey`
-
-## Configuration
 
 All network configurations are defined in the code:
 - RPC endpoints
