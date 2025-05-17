@@ -38,6 +38,15 @@ cd interlinklabs
 ```bash
 npm install
 ```
+3.Create required files:
+
+proxies.txt (optional) - Add your proxies, one per line
+```fill yours proxy if you have 
+nano proxies.txt
+```
+accounts.json (will be created automatically)
+
+
 3.run the script
 ```bash
 node index.js
