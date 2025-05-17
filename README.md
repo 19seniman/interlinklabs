@@ -46,10 +46,9 @@ nano proxies.txt
 ```
 ```format
 http://username:password@ip:port
-socks5://username:password@ip:port```
-
+socks5://username:password@ip:port
+```
 accounts.json (will be created automatically)
-
 
 3.run the script
 ```bash
