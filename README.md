@@ -52,7 +52,7 @@ socks5://username:password@ip:port
 ```
 accounts.json (will be created automatically)
 
-3.run the script
+4.run the script
 ```bash
 node index.js
 ```
