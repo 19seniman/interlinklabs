@@ -5,11 +5,16 @@ What Project? Building Human Network in the age of Artificial Inteligent
 ⭐️Rewards: $ITLG
 Funding Raised : $20M
 
-▫️Register ( singup ) : https://interlinklabs.Ai/register (https://interlinklabs.ai/referral?refCode=281343225721)
-▫️click yang gambar dadu nanti muncul id 
+▫️Register ( singup ) : https://interlinklabs.ai/referral?refCode=281343225721
+
+▫️click yang gambar dadu nanti muncul id
+
 ▫️ lalu masukan pin  lalu scan wajah ganteng lu
+
 ▫️kalau sudah login click bagian profil bagian account masukan email dan connectkan wallet mu click all wallet kalau mau connect ke okx atau bisa connect ke trustwallet.
+
 ▫️click Referal click "Human Hash "  Submit Referal code : 281343225721
+
 ▫️click Home click " Mine ITLG " Click yang biru dan claim $ITLG every 4 hour 
 
 ## Features
@@ -42,8 +47,4 @@ node index.js
 
 
 
-All network configurations are defined in the code:
-- RPC endpoints
-- Chain IDs
-- Network symbols
-- Explorer URLs
+
