@@ -36,7 +36,9 @@ cd interlinklabs
 
 2. Install dependencies:
 ```bash
-npm install
+npm install axios
+npm install moment
+npm install socks-proxy-agent
 ```
 3.Create required files:
 
