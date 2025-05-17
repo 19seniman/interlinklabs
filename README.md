@@ -1,8 +1,11 @@
 # Interlinklabs
 
 🃏Interlink Network | New Airdrop
+
 What Project? Building Human Network in the age of Artificial Inteligent
+
 ⭐️Rewards: $ITLG
+
 Funding Raised : $20M
 
 ▫️Register ( singup ) : https://interlinklabs.ai/referral?refCode=281343225721
