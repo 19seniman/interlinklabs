@@ -38,12 +38,7 @@ cd interlinklabs
 ```bash
 npm install
 ```
-
-3. submit your id interlink
-```bash
-nano token.txt
-```
-4. run the scrpt:
+3.run the script
 ```bash
 node index.js
 ```
