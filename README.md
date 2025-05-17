@@ -1,6 +1,7 @@
 # Interlinklabs
 
 🃏Interlink Network | New Airdrop
+- website : https://interlinklabs.ai/
 
 What Project? Building Human Network in the age of Artificial Inteligent
 
@@ -8,7 +9,7 @@ What Project? Building Human Network in the age of Artificial Inteligent
 
 Funding Raised : $20M
 
-▫️Register ( singup ) : https://interlinklabs.ai/referral?refCode=281343225721
+▫️Download apk & singup : https://play.google.com/store/apps/details?id=org.ai.interlinklabs.interlinkIdla
 
 ▫️click yang gambar dadu nanti muncul id
 
