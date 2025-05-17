@@ -1,35 +1,28 @@
-# MultiNetwork Auto Transaction Bot
+# Interlinklabs
 
-Automated wallet creation, faucet claiming, and token transfer bot for Somnia and Nexus Networks.
+🃏Interlink Network | New Airdrop
+What Project? Building Human Network in the age of Artificial Inteligent
+⭐️Rewards: $ITLG
+Funding Raised : $20M
+
+▫️Register ( singup ) : https://interlinklabs.Ai/register (https://interlinklabs.ai/referral?refCode=281343225721)
+▫️click yang gambar dadu nanti muncul id 
+▫️ lalu masukan pin  lalu scan wajah ganteng lu
+▫️kalau sudah login click bagian profil bagian account masukan email dan connectkan wallet mu click all wallet kalau mau connect ke okx atau bisa connect ke trustwallet.
+▫️click Referal click "Human Hash "  Submit Referal code : 281343225721
+▫️click Home click " Mine ITLG " Click yang biru dan claim $ITLG every 4 hour 
 
 ## Features
 
-- Multi-network support (Somnia, Nexus)
-- Automatic wallet generation
-- Faucet claiming for Somnia network
-- Automated token transfers
-- Wallet management and storage
-- Transaction tracking with explorer links
+- Automatic Claim $4itlg
+- Support proxi
 
-## Networks Supported
-
-1. Somnia Testnet
-   - RPC: https://dream-rpc.somnia.network
-   - Chain ID: 50312
-   - Symbol: STT
-   - Explorer: https://somnia-testnet.socialscan.io
-
-2. Nexus Network
-   - RPC: https://rpc.nexus.xyz/http
-   - Chain ID: 393
-   - Symbol: NEX
-   - Explorer: https://explorer.nexus.xyz
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/19seniman/evm-auto-tx.git
+git clone 
 cd evm-auto-tx
 ```
 
